@@ -12,5 +12,5 @@
 5. Адаптивная, резиновая вёрстка
 
 ***
-Cсылка на проект: [git@github.com:anstymlkv/russian-travel.git]
+Cсылка на проект: [https://github.com/anstymlkv/russian-travel.git]
 
