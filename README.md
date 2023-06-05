@@ -10,3 +10,7 @@
 3. flex-box
 4. grid
 5. Адаптивная, резиновая вёрстка
+
+***
+Cсылка на проект: [https://github.com/anstymlkv/russian-travel.git]
+
