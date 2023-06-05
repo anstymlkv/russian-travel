@@ -5,7 +5,7 @@
     left: 0;
     top: 0;
     z-index: 1;
-    background: url(../../../sprint-3-images/__background.svg) no-repeat center;
+    background: url(../../../sprint-3-images/cover-trains.jpg) no-repeat center;
     background-size: cover;
     background-position: center;
     transition: all 0.3s ease-in-out;
