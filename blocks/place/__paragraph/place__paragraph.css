@@ -4,6 +4,7 @@
     line-height: 163%;
     margin: 0;
     grid-area: place__paragraph;
+    margin: 0 auto 24px;
 }
 
 @media screen and (max-width: 768px) {
